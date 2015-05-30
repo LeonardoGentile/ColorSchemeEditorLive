@@ -1,17 +1,22 @@
-ColorSchemeEditor
+ColorSchemeEditorLive
 =================
 "Real-time" color scheme editor plugin for Sublime Text 2/3.
+
+## NOTE: I am not the author of this plugin
+This package belonged to the user [bobef](https://github.com/bobef/ColorSchemeEditor-ST2) and was called __ColorSchemeEditor__ but his account has disappeared.
+By chance I found this extremely useful plugin somewhere on my machine before it went lost forever.
+All credits to the original author.
 
 Screenshots
 ===========
 ### Automatic scope display
-![Real-time scope display](https://raw.github.com/bobef/ColorSchemeEditor-ST2/master/screenshots/screen1.png)
+![Real-time scope display](./screenshots/screen1.png)
 
 ### Quick color selection (thirdparty plugin)
-![Quick color selection (thirdparty plugin)](https://raw.github.com/bobef/ColorSchemeEditor-ST2/master/screenshots/screen2.png)
+![Quick color selection (thirdparty plugin)](./screenshots/screen2.png)
 
 ### Real-time preview
-![Real-time preview](https://raw.github.com/bobef/ColorSchemeEditor-ST2/master/screenshots/screen3.png)
+![Real-time preview](./screenshots/screen3.png)
 
 Usage
 =====
