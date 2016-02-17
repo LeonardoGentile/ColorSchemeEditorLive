@@ -3,9 +3,11 @@ ColorSchemeEditorLive
 "Real-time" color scheme editor plugin for Sublime Text 2/3.
 
 ## NOTE: I am not the author of this plugin
-This package belonged to the user [bobef](https://github.com/bobef/ColorSchemeEditor-ST2) and was called __ColorSchemeEditor__ but his account has disappeared.
+This package belonged to the user [bobef](https://github.com/bobef/) and was called [ColorSchemeEditor](https://github.com/bobef/ColorSchemeEditor-ST2) ~~but his account has disappeared~~ it's back up online again!.  
 By chance I found this extremely useful plugin somewhere on my machine before it went lost forever.
 All credits to the original author.
+
+Considering the original repo is online again I could delete this but I'm keeping it only as a safe backup copy.
 
 Screenshots
 ===========
